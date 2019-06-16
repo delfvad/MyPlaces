@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BCF66D2B22B6D0A300340DAB /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCF66D2A22B6D0A300340DAB /* CustomTableViewCell.swift */; };
 		BCF6D3F322B2E5F300FB2E09 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCF6D3F222B2E5F300FB2E09 /* AppDelegate.swift */; };
 		BCF6D3F822B2E5F300FB2E09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCF6D3F622B2E5F300FB2E09 /* Main.storyboard */; };
 		BCF6D3FA22B2E5F500FB2E09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCF6D3F922B2E5F500FB2E09 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BCF66D2A22B6D0A300340DAB /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		BCF6D3EF22B2E5F300FB2E09 /* MyPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCF6D3F222B2E5F300FB2E09 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BCF6D3F722B2E5F300FB2E09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				BCF6D3F222B2E5F300FB2E09 /* AppDelegate.swift */,
 				BCF6D40422B2F0AB00FB2E09 /* MainViewController.swift */,
 				BCF6D3F622B2E5F300FB2E09 /* Main.storyboard */,
+				BCF66D2A22B6D0A300340DAB /* CustomTableViewCell.swift */,
 				BCF6D3F922B2E5F500FB2E09 /* Assets.xcassets */,
 				BCF6D3FB22B2E5F500FB2E09 /* LaunchScreen.storyboard */,
 				BCF6D3FE22B2E5F500FB2E09 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BCF66D2B22B6D0A300340DAB /* CustomTableViewCell.swift in Sources */,
 				BCF6D3F322B2E5F300FB2E09 /* AppDelegate.swift in Sources */,
 				BCF6D40522B2F0AB00FB2E09 /* MainViewController.swift in Sources */,
 			);
